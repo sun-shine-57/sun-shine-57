@@ -9,7 +9,7 @@ Full Stack Web Developer intern at Edureka
 Passionate about coding and creating. Learned a variety of programming languages like C, C++ and Python.  
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+# ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
